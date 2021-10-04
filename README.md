@@ -1,0 +1,1 @@
+# spring-jdbc-name-template
